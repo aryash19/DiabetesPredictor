@@ -18,3 +18,7 @@ you can find the code of Machine learning in diabetes_prediction.py .
 
 
 Diabetes Prediction web app.py for the web app .
+
+
+
+Dataset is used from kaggle but here you can see the dataset as diabetes.csv in the repo .
